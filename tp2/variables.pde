@@ -1,0 +1,23 @@
+   
+PImage img1;
+PImage img2;
+PImage img3;
+PImage img4;
+PImage img5;
+PImage img6;
+PImage img7;
+PImage img8;
+PImage libro;
+int escena = 0;
+int tiempo = 0;
+PFont tipografia1;
+PFont tipografia2;
+float tamFuente = 10;
+float tamFuente2 = 21;
+int tamFuente3 = 30;
+int posX = 0;
+int posX2 = -300;
+int posY2 = 480;
+int posY = 0;
+int posY3 = -50;
+int posYlibro = 480;
